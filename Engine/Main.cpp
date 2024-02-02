@@ -21,6 +21,7 @@
 * "Add" only shows up if you already have a repository. There are a couple ways to fix this. The easiest is to choose "Checkout" instead, drop the URL to your repo, then let that run. Then you will get the "Add" option.
 * 
 */
+
 //->ConfigProperties->IntermediateDirectory->$(Configuration)\Tmp\
 
 
