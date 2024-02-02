@@ -14,6 +14,12 @@
 * 
 * I thought there would be more steps, but uh.. after you do these two things, everything should function properly as it does in this video (ability to Add.. and Commit) once you're created the project files.
 * 
+* ---------------Other Isues----------------------
+* 
+* I downloaded and installed the Tortoise SVN but I don't appear to have the Add.. option like you do, all the other options are there though. Any ideas?
+* 
+* "Add" only shows up if you already have a repository. There are a couple ways to fix this. The easiest is to choose "Checkout" instead, drop the URL to your repo, then let that run. Then you will get the "Add" option.
+* 
 */
 //->ConfigProperties->IntermediateDirectory->$(Configuration)\Tmp\
 
