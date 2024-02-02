@@ -4,6 +4,8 @@
 //---------------------- Initial Folder Setup ------------------------
 //ref link:https://www.youtube.com/watch?v=pNsqHoE49eg
 
+//->ConfigProperties->IntermediateDirectory->$(Configuration)\Tmp\
+
 void main()
 {
 
